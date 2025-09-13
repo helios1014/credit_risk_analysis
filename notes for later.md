@@ -1,1 +1,2 @@
 - https://stackoverflow.com/questions/63768642/pandas-df-to-parquet-write-to-multiple-smaller-files
+- https://sirallen.name/blog/note-on-lending-club/
