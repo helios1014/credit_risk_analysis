@@ -7,3 +7,4 @@ experiemnts in credit risk analysis
 - https://asaip.psu.edu/articles/beware-the-kolmogorov-smirnov-test/
 - https://cae.economics.cornell.edu/10.01.pdf
 - https://www.lendingclub.com/developers/detailed-notes-owned
+- http://www.creditriskanalytics.net/datasets-private2.html
