@@ -8,3 +8,4 @@ experiemnts in credit risk analysis
 - https://cae.economics.cornell.edu/10.01.pdf
 - https://www.lendingclub.com/developers/detailed-notes-owned
 - http://www.creditriskanalytics.net/datasets-private2.html
+- https://www.consumerfinance.gov/about-us/blog/credit-scores-only-tells-part-of-the-story-cashflow-data/
