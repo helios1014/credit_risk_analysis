@@ -1,2 +1,4 @@
 - https://stackoverflow.com/questions/63768642/pandas-df-to-parquet-write-to-multiple-smaller-files
 - https://sirallen.name/blog/note-on-lending-club/
+- https://discourse.pymc.io/t/bayesian-networks-for-beginners/16589/3
+- 
